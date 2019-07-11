@@ -1,0 +1,49 @@
+1. Get ready for work
+  1.1 shower
+    1.1.1 turn shower on
+      1.1.1.1 turn hot water dial 3/4 turn counter clockwise
+      1.1.1.2 turn cold water dial 1/4 turn clockwise
+      1.1.1.3 wait for shower to warm up
+        1.1.1.3.1 brush teeth
+          1.1.1.3.1.1 grab tooth brush
+          1.1.1.3.1.2 take toothpaste from drawer
+            1.1.1.3.1.2.1 unscrew toothpaste lid
+            1.1.1.3.1.2.2 apply toothpaste to toothbrush
+            1.1.1.3.1.2.3 put toothpaste back in drawer
+          1.1.1.3.1.3 begin to brush teeth
+            1.1.1.3.1.3.1 brush for 2 minutes
+              1.1.1.3.1.3.1.1 brush top teeth equally for one minute
+              1.1.1.3.1.3.1.2 brush bottom teeth equally for one minute
+            1.1.1.3.1.3.2 spit toothpaste out
+              1.1.1.3.3.2.1 rinse out sink
+          1.1.1.3.1.4 rinse toothbrush
+              1.1.1.3.1.4 put toothbrush away
+    1.1.2 get in shower
+      1.1.2 test water temp
+        1.1.2.1 if okay then ready to get in
+        1.1.2.2 if too hot then turn hot water dial slightly clockwise
+        1.1.2.3 if too cold then turn cold water dial slightly counter clockwise
+        1.1.2.4 test again if necessary and adjust until temperature is good
+      1.1.3 step into shower
+    1.1.3 clean self
+      1.1.3.1 clean body
+        1.1.3.1.1 apply bodywash
+          1.1.3.1.1.1 grab body wash bottle
+            1.1.3.1.1.1.1 apply to hands
+            1.1.3.1.1.1.2 thoroughly scrub body from neck to toe
+            1.1.3.1.1.1.3 let sit for 20 seconds
+          1.1.3.1.1.1 rinse
+        1.1.3.1.2 wash face
+          1.1.3.1.2.1 grab face wash
+            1.1.3.1.2.1.1 unscrew lid
+            1.1.3.1.2.1.2 use finger to get around 1tbs out
+            1.1.3.1.2.1.3 apply to hands
+          1.1.3.1.2.2 apply to face
+            
+      1.1.3.2 wash hair
+    1.1.5 turn shower off
+    1.1.6 dry off
+  1.3 contacts
+  1.4 get dressed
+  1.5 coffee
+  1.6 leave home
