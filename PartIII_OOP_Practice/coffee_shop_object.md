@@ -1,17 +1,17 @@
-# class: cup
+# object: to-go cup
 
 ### **Attributes**
-1. cupMouth* = (string)
-2. cupShape* = (string)
-3. cupMaxVolume = (integer)
-4. cupCurrentVolume = (float)
-5. cupColor = (float)
-6. compostable = (boolean)
-7. cupMaterial = (string)
+1. cupMouth: "cylindrical"
+2. cupSize: "Medium"
+3. cupMaxVolume: 16
+4. cupCurrentVolume: 10.5
+5. cupColor: "grey"
+6. compostable: false
+7. cupMaterial: "plastic"
 
 ### *Methods*
-1. changeColor = (modify the attribute cupColor)
-2. refillVolume = (cupMaxVolume - cupCurrentVolume)
-3. isCompostible = (check value of attribute compostable)
-4. isMaterial = (pull value of attribute cupMaterial)
-5. halfPourVolume = (cupMaxVolume / 2)
+1. changeColor: "black"
+2. refillVolume: 5.5
+3. isCompostible: false
+4. isMaterial: "plastic"
+5. halfPourVolume: 8
