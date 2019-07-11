@@ -1,6 +1,6 @@
-#class: cup#
+#class: cup
 
-**###Attributes###**
+**###Attributes**
 1. cupMouth* = (string)
 2. cupShape* = (string)
 3. cupMaxVolume = (integer)
@@ -9,7 +9,7 @@
 6. compostable = (boolean)
 7. cupMaterial = (string)
 
-*###Methods###*
+*###Methods*
 1. changeColor = (modify the attribute cupColor)
 2. refillVolume = (cupMaxVolume - cupCurrentVolume)
 3. isCompostible = (check value of attribute compostable)
